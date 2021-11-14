@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/movie-base/static/css/main.05cf9367.chunk.css",
+    "main.js": "/movie-base/static/js/main.cb129f6f.chunk.js",
+    "main.js.map": "/movie-base/static/js/main.cb129f6f.chunk.js.map",
+    "runtime-main.js": "/movie-base/static/js/runtime-main.9609bc47.js",
+    "runtime-main.js.map": "/movie-base/static/js/runtime-main.9609bc47.js.map",
+    "static/css/2.2894c9e2.chunk.css": "/movie-base/static/css/2.2894c9e2.chunk.css",
+    "static/js/2.9b18ffb2.chunk.js": "/movie-base/static/js/2.9b18ffb2.chunk.js",
+    "static/js/2.9b18ffb2.chunk.js.map": "/movie-base/static/js/2.9b18ffb2.chunk.js.map",
+    "index.html": "/movie-base/index.html",
+    "static/css/2.2894c9e2.chunk.css.map": "/movie-base/static/css/2.2894c9e2.chunk.css.map",
+    "static/css/main.05cf9367.chunk.css.map": "/movie-base/static/css/main.05cf9367.chunk.css.map",
+    "static/js/2.9b18ffb2.chunk.js.LICENSE.txt": "/movie-base/static/js/2.9b18ffb2.chunk.js.LICENSE.txt",
+    "static/media/boxicons.min.css": "/movie-base/static/media/boxicons.c324d2b5.eot",
+    "static/media/film-reel.01818138.png": "/movie-base/static/media/film-reel.01818138.png",
+    "static/media/footer-bg.f215cfbc.jpg": "/movie-base/static/media/footer-bg.f215cfbc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9609bc47.js",
+    "static/css/2.2894c9e2.chunk.css",
+    "static/js/2.9b18ffb2.chunk.js",
+    "static/css/main.05cf9367.chunk.css",
+    "static/js/main.cb129f6f.chunk.js"
+  ]
+}
